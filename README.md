@@ -8,7 +8,7 @@ React, TypeScript, Tailwind CSS v4, Framer Motion, and Lucide icons.
 
 ## Requirements
 
-- Node.js 20.9+ (Node 22 recommended)
+- Node.js 22.x or 24.x
 - npm 10+
 
 ## Getting started
